@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    display: block;
+    align-items: left;
+    justify-content: center;
+    background: fixed;
+    background-color: orange;
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    justify-content: left;
+    font-size: 20px;
+    position: fixed;
+    top: 20px;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    align-items: right;
+    z-index: 99;
+    background-color: white;
+}
+
+.h2 {
+    align-items: center;
+    font-size: 30px;
+    top: 100%;
+}
+
+.btn {
+    font-size: 40px;
+    border: 3px;
+    align-items: top;
+
+}
+
+.btn-totalsales {
+    font-size: 40px;
+    border-radius: 20px;
+}
+
+.btn-expenses {
+    font-size: 40px;
+}
+
+.btn-todaysales {
+    font-size: 40px;
+}

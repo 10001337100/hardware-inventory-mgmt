@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    align-content: center;
+    background-image: url("Mount.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    border-color: black;
+}
+
+.navbar {
+    background-color: blue;
+    justify-content: right;
+}
+
+.content {
+    align-items: center;
+    border-color: brown;
+    background-color: aqua;
+    justify-content: center;
+    align-content: center;
+    font-size: 20px;
+}
